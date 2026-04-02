@@ -2,7 +2,8 @@
 
 A multi-tier benchmark dataset for evaluating the privacy-utility trade-off in video-based human activity recognition.
 
-**Paper:** *PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition* (arXiv preprint, April 2026)
+**Paper:** *PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition* (arXiv preprint, DOI: 
+https://doi.org/10.48550/arXiv.2604.00761, April 2026)
 
 **Dataset:** [Zenodo (DOI: 10.5281/zenodo.19352048)](https://doi.org/10.5281/zenodo.19352048)
 
