@@ -148,7 +148,7 @@ The PrivHAR-Bench **dataset** is released under CC-BY-NC-4.0 and inherits restri
 @article{ansari2026privharbench,
   title={PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition},
   author={Ansari, Samar},
-  journal={arXiv preprint},
+  journal={arXiv preprint, DOI: https://doi.org/10.48550/arXiv.2604.00761},
   year={2026}
 }
 ```
