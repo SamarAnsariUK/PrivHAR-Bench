@@ -7,6 +7,12 @@ https://doi.org/10.48550/arXiv.2604.00761, April 2026)
 
 **Dataset:** [Zenodo (DOI: 10.5281/zenodo.19352048)](https://doi.org/10.5281/zenodo.19352048)
 
+If you use this work in your research or project, please cite the following paper: 
+
+Ansari, S. (2026). PrivHAR-Bench: A graduated privacy benchmark dataset for video-based action recognition [Preprint]. arXiv. https://arxiv.org/abs/2604.00761
+
+The full paper is [here](https://arxiv.org/abs/2604.00761 "Go to the Priv-HAR paper").
+
 ## Overview
 
 PrivHAR-Bench provides 1,932 source videos across 15 activity classes, each distributed in 9 parallel privacy tiers:
@@ -147,10 +153,13 @@ The PrivHAR-Bench **dataset** is released under CC-BY-NC-4.0 and inherits restri
 
 ```bibtex
 @article{ansari2026privharbench,
-  title={PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition},
-  author={Ansari, Samar},
-  journal={arXiv preprint, DOI: https://doi.org/10.48550/arXiv.2604.00761},
-  year={2026}
+      title={PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition}, 
+      author={Samar Ansari},
+      year={2026},
+      eprint={2604.00761},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.00761}, 
 }
 ```
 
