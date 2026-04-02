@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pipeline outputs (large; do not commit)
+PrivHAR-Bench_v1.0.0/
+PrivHAR-Bench_NTU_v1.0.0/
+detections/
+detections_ntu/
+
+# Model weights (large; download separately)
+weights/*.pt
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
