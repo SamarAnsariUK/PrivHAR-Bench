@@ -1,0 +1,23 @@
+# PrivHAR-Bench Pipeline Dependencies
+# Install: pip install -r requirements.txt
+
+# Core dependencies
+numpy>=1.24.0
+opencv-python>=4.8.0
+PyYAML>=6.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Person detection and pose estimation
+ultralytics>=8.0.0
+
+# Cryptographic block permutation (REQUIRED for canonical dataset reproduction)
+# The pipeline includes a SHA-256 fallback, but it produces DIFFERENT outputs.
+pycryptodome>=3.19.0
+
+# Optional: ArcFace face verification experiment (Phase 5)
+# insightface>=0.7.3
+# onnxruntime-gpu>=1.16.0    # or onnxruntime for CPU-only
+
+# Optional: Plot generation
+# matplotlib>=3.7.0
